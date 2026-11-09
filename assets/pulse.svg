@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+<defs><linearGradient id="pcb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f2a3a"/><stop offset="1" stop-color="#0a1a26"/></linearGradient><linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1d6f8f"/><stop offset="1" stop-color="#3ad0ff"/></linearGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<rect x="1" y="1" width="998" height="418" rx="18" fill="url(#pcb)" stroke="#1d4a60" stroke-width="2"/>
+<circle cx="22" cy="22" r="6" fill="#1d4a60"/>
+<circle cx="978" cy="22" r="6" fill="#1d4a60"/>
+<circle cx="22" cy="398" r="6" fill="#1d4a60"/>
+<circle cx="978" cy="398" r="6" fill="#1d4a60"/>
+<text x="48" y="62" fill="#ffc94a" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="14" letter-spacing="2">BUILD LOG, LAST 12 MONTHS</text>
+<text x="952" y="62" fill="#5f8396" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="12" text-anchor="end">UPDATED 2026-11-09</text>
+<text x="48" y="146" fill="#e8eef4" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">187</text>
+<text x="50" y="176" fill="#b4bdc9" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17">contributions, public and private</text>
+<text x="48" y="226" fill="#3ad0ff" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">182</text>
+<text x="48" y="246" fill="#5f8396" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="12">commits</text>
+<text x="238" y="226" fill="#3ad0ff" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">21</text>
+<text x="238" y="246" fill="#5f8396" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="12">active days</text>
+<text x="48" y="282" fill="#3ad0ff" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">4d</text>
+<text x="48" y="302" fill="#5f8396" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="12">longest streak</text>
+<text x="238" y="282" fill="#3ad0ff" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">8</text>
+<text x="238" y="302" fill="#5f8396" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="12">releases</text>
+<path d="M450 92 V300" stroke="#1d4a60" stroke-width="2" stroke-dasharray="4 6"/>
+<text x="486" y="112" fill="#ffc94a" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="13" letter-spacing="2">WHERE THE COMMITS WENT</text>
+<text x="486" y="152" fill="#e8eef4" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">opeq</text>
+<text x="952" y="152" fill="#e8eef4" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="15" text-anchor="end">155</text>
+<rect x="486" y="160" width="466" height="5" rx="2.5" fill="#12384b"/>
+<rect x="486" y="160" width="330" height="5" rx="2.5" fill="#3ad0ff"/>
+<text x="486" y="192" fill="#e8eef4" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">Lokr</text>
+<text x="952" y="192" fill="#e8eef4" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="15" text-anchor="end">23</text>
+<rect x="486" y="200" width="466" height="5" rx="2.5" fill="#12384b"/>
+<rect x="486" y="200" width="48" height="5" rx="2.5" fill="#ffc94a"/>
+<text x="486" y="232" fill="#e8eef4" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">farmit</text>
+<text x="952" y="232" fill="#e8eef4" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="15" text-anchor="end">4</text>
+<rect x="486" y="240" width="466" height="5" rx="2.5" fill="#12384b"/>
+<rect x="486" y="240" width="8" height="5" rx="2.5" fill="#ffc94a"/>
+<text x="48" y="336" fill="#ffc94a" font-family="ui-monospace, SFMono-Regular, Cascadia Mono, Consolas, monospace" font-size="13" letter-spacing="2">WEEK BY WEEK</text>
+<rect x="49.0" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="66.1" y="388" width="14.1" height="4" rx="2" fill="url(#bar)"/>
+<rect x="83.1" y="373" width="14.1" height="19" rx="2" fill="url(#bar)"/>
+<rect x="100.2" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="117.2" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="134.3" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="151.3" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="168.4" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="185.5" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="202.5" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="219.6" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="236.6" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="253.7" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="270.7" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="287.8" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="304.8" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="321.9" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="339.0" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="356.0" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="373.1" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="390.1" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="407.2" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="424.2" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="441.3" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="458.4" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="475.4" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="492.5" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="509.5" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="526.6" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="543.6" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="560.7" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="577.8" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="594.8" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="611.9" y="388" width="14.1" height="4" rx="2" fill="url(#bar)"/>
+<rect x="628.9" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="646.0" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="663.0" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="680.1" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="697.2" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="714.2" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="731.3" y="388" width="14.1" height="4" rx="2" fill="url(#bar)"/>
+<rect x="748.3" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="765.4" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="782.4" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="799.5" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="816.5" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="833.6" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="850.7" y="390" width="14.1" height="2" rx="2" fill="#12384b"/>
+<rect x="867.7" y="380" width="14.1" height="12" rx="2" fill="url(#bar)"/>
+<rect x="884.8" y="369" width="14.1" height="23" rx="2" fill="url(#bar)"/>
+<rect x="901.8" y="357" width="14.1" height="35" rx="2" fill="url(#bar)"/>
+<rect x="918.9" y="348" width="14.1" height="44" rx="2" fill="url(#bar)"/>
+<rect x="935.9" y="383" width="14.1" height="9" rx="2" fill="url(#bar)"/>
+<circle cx="943.5" cy="373" r="5" fill="#3ad0ff"/><circle cx="943.5" cy="373" r="11" fill="#3ad0ff" opacity="0.35" filter="url(#glow)"/>
+</svg>
