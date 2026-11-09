@@ -20,8 +20,9 @@ What I work with:
 
 | | |
 |---|---|
-| **[OPEQ](https://github.com/Sercan0x/opeq)**<br>Quantum-resistant accounts for Solana and five EVM chains: Chrome wallet, USB edition, multisig and bridge.<br><sub>JavaScript, Solidity, Solana</sub> | **[@opeqlabs/sdk](https://www.npmjs.com/package/@opeqlabs/sdk)**<br>Hash-based accounts in a few lines of code, with offline signature verification.<br><sub>Node.js, zero dependencies</sub> |
-| **[farm it?](https://github.com/Sercan0x/farmit)**<br>Airdrop rooms the project does not run. One vote per room: farm it, or skip it.<br><sub>Python, WebSockets from scratch</sub> | **[Lokr](https://github.com/Sercan0x/Lokr)**<br>USDC vault on Arc with spending limits, whitelists and an emergency pause.<br><sub>Solidity, JavaScript</sub> |
+| **[OPEQ Wallet](https://opeq.io)**<br>Chrome extension and web wallet. Send, swap, bridge and multisig with a quantum-resistant account.<br><sub>JavaScript, Solana, EVM</sub> | **[@opeqlabs/sdk](https://www.npmjs.com/package/@opeqlabs/sdk)**<br>The wallet's own library on npm. Create accounts, send on six networks and verify any OPEQ signature offline.<br><sub>Node.js, zero dependencies</sub> |
+| **[OPEQ USB](https://github.com/Sercan0x/opeq/releases)**<br>The whole wallet on a USB stick. Double-click to open, nothing to install, keys never touch the hard drive.<br><sub>Offline-first</sub> | **[OPEQ Scan](https://opeq.io/scan)**<br>Paste any address and see how exposed it is to a future quantum attack.<br><sub>Solana, EVM</sub> |
+| **[EVM accounts](https://github.com/Sercan0x/opeq)**<br>One address on Ethereum, Base, Arbitrum, Robinhood Chain and Elysium, verified on chain by a WOTS+ smart account.<br><sub>Solidity</sub> | **[Solana program](https://github.com/Sercan0x/opeq)**<br>A program-derived account with no Ed25519 key behind it. Any program, one hash-based signature.<br><sub>Solana mainnet</sub> |
 
 ## Toolbox
 
