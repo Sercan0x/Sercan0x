@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Hi, I'm Sercan. I build OPEQ." width="100%">
+<img src="assets/banner.png" alt="Hi, I'm Sercan. I build on-chain software." width="100%">
 
 <p>
   <a href="https://opeq.io">opeq.io</a> &nbsp;|&nbsp;
@@ -7,11 +7,9 @@
   <a href="https://github.com/Sercan0x/opeq/releases">Releases</a>
 </p>
 
-I build OPEQ: quantum-resistant accounts for Solana and EVM networks.
+I build on-chain software: wallets, smart contracts and the cryptography under them, on Solana and EVM networks. I like small, hand-written code that people can read and check.
 
-Every wallet on Solana and Ethereum today rests on Ed25519 or ECDSA, and a large enough quantum computer can recover those private keys from public data. OPEQ accounts sign with one-time hash-based signatures (WOTS+) that rest only on hash functions. No protocol change, no new chain: they run on mainnet today.
-
-Everything is open source and built by hand, with zero runtime dependencies.
+Most of my time right now goes into OPEQ, quantum-resistant accounts that sign with one-time hash-based signatures and run on mainnet today.
 
 ## Selected work
 
