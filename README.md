@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Hi, I'm Sercan. I build on-chain software." width="100%">
+<img src="assets/banner-2.png" alt="Hi, I'm Sercan. I build on-chain software." width="100%">
 
 <p>
   <a href="https://opeq.io">opeq.io</a> &nbsp;|&nbsp;
