@@ -12,7 +12,7 @@ What I work with:
 
 - **Smart contracts** on Solana and EVM chains, from vaults and account abstraction to launchpads and Uniswap V4 hooks
 - **Wallets and signing**, including post-quantum (hash-based) signatures, multisig and offline verification
-- **Applied cryptography** written from scratch: SHA-256, Keccak, secp256k1, Ed25519, WOTS+
+- **Applied cryptography** written from scratch: SHA-256, Keccak, secp256k1, WOTS+
 - **Backends and infrastructure** on Cloudflare Workers, RPC proxies, indexers and real-time apps
 - **Developer tools**: SDKs, test harnesses, fork tests and release pipelines
 
