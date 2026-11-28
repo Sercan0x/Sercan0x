@@ -23,6 +23,7 @@ What I work with:
 | **[OPEQ Wallet](https://opeq.io)**<br>Chrome extension and web wallet. Send, swap, bridge and multisig with a quantum-resistant account.<br><sub>JavaScript, Solana, EVM</sub> | **[@opeqlabs/sdk](https://www.npmjs.com/package/@opeqlabs/sdk)**<br>The wallet's own library on npm. Create accounts, send on six networks and verify any OPEQ signature offline.<br><sub>Node.js, zero dependencies</sub> |
 | **[OPEQ USB](https://github.com/Sercan0x/opeq/releases)**<br>The whole wallet on a USB stick. Double-click to open, nothing to install.<br><sub>Offline-first</sub> | **[OPEQ Scan](https://opeq.io/scan)**<br>Paste any address and see how exposed it is to a future quantum attack.<br><sub>Solana, EVM</sub> |
 | **[EVM accounts](https://github.com/Sercan0x/opeq)**<br>One address on Ethereum, Base, Arbitrum, Robinhood Chain and Elysium, verified on chain by a WOTS+ smart account.<br><sub>Solidity</sub> | **[Solana program](https://github.com/Sercan0x/opeq)**<br>A program-derived account with no Ed25519 key behind it. Any program, one hash-based signature.<br><sub>Solana mainnet</sub> |
+| **[DOKO](https://opeq.io/doko)**<br>Futures trading agents built by talking to Claude over MCP. Honest backtests with fees, funding and liquidations, live stops from the order book.<br><sub>Cloudflare Workers, Durable Objects, MCP</sub> | **[x402 agent wallet](https://github.com/Sercan0x/opeq#ai-agents-beta)**<br>AI agents pay for services from an OPEQ wallet, capped by an allowance the token program enforces.<br><sub>Solana, EVM</sub> |
 
 ## Toolbox
 
